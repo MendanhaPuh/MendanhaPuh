@@ -4,7 +4,7 @@
 
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
-  <img align="center" src="https://profile-counter.glitch.me/{Henriquefuga}/count.svg" style="margin:0 auto" />
+  <img align="center" src="https://profile-counter.glitch.me/{mendanhapuh}/count.svg" style="margin:0 auto" />
 </div>
 
 <!--
