@@ -5,7 +5,7 @@
   <!--![MendanhaPuh GitHub stats](https://github-readme-stats.vercel.app/api?username=mendanhapuh&show_icons=true&theme=gotham&hide_border=true)
   ![MendanhaPuh GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mendanhapuh&layout=compact&theme=gotham&hide_border=true) -->
   <img src="https://github-readme-stats.vercel.app/api?username=mendanhapuh&show_icons=true&theme=gotham&hide_border=true" style="width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendanhapuh&layout=compact&theme=gotham&hide_border=true" style="width:42%; margin-left=auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendanhapuh&layout=compact&theme=gotham&hide_border=true" style="width:43%; margin-right=auto;" />
 </div>
 <br>
 <div align="center">
