@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ernesto+Mendanha;I'm+25+years+old+and+i'm+from+Brazil;I'm+a+Computer+Science+Student;Be+Welcome!)](https://git.io/typing-svg)
 
-## Olá 👋
-
 
 <div align="center">
   <!--![MendanhaPuh GitHub stats](https://github-readme-stats.vercel.app/api?username=mendanhapuh&show_icons=true&theme=gotham&hide_border=true)
