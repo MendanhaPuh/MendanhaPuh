@@ -1,15 +1,16 @@
 ## Olá 👋
 
 
-
-![MendanhaPuh GitHub stats](https://github-readme-stats.vercel.app/api?username=mendanhapuh&show_icons=true&theme=gotham)
-
+<div style="display=inline-block">
+  ![MendanhaPuh GitHub stats](https://github-readme-stats.vercel.app/api?username=mendanhapuh&show_icons=true&theme=gotham&hide_border=true)
+  ![MendanhaPuh GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mendanhapuh&layout=compact&theme=gotham&hide_border=true)
+</div>
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
   <img align="center" src="https://profile-counter.glitch.me/{mendanhapuh}/count.svg" style="margin:0 auto" />
 </div>
 
-![MendanhaPuh GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mendanhapuh&layout=compact&theme=gotham&hide_border=true)
+
 
 <!--
 **MendanhaPuh/MendanhaPuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
