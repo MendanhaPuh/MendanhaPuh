@@ -1,11 +1,11 @@
 ## Olá 👋
 
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
   <!--![MendanhaPuh GitHub stats](https://github-readme-stats.vercel.app/api?username=mendanhapuh&show_icons=true&theme=gotham&hide_border=true)
   ![MendanhaPuh GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mendanhapuh&layout=compact&theme=gotham&hide_border=true) -->
   <img src="https://github-readme-stats.vercel.app/api?username=mendanhapuh&show_icons=true&theme=gotham&hide_border=true" style="width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendanhapuh&layout=compact&theme=gotham&hide_border=true" style="width:45%; margin-left=auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendanhapuh&layout=compact&theme=gotham&hide_border=true" style="width:44%; margin-left=auto;" />
 </div>
 <br>
 <div align="center">
