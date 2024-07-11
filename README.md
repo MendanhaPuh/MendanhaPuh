@@ -4,8 +4,8 @@
 <div style="display='inline-block">
   <!--![MendanhaPuh GitHub stats](https://github-readme-stats.vercel.app/api?username=mendanhapuh&show_icons=true&theme=gotham&hide_border=true)
   ![MendanhaPuh GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mendanhapuh&layout=compact&theme=gotham&hide_border=true) -->
-  <img style="float='left; margin='1%'" src="https://github-readme-stats.vercel.app/api?username=mendanhapuh&show_icons=true&theme=gotham&hide_border=true" />
-  <img style="float='left'; margin='1%'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendanhapuh&layout=compact&theme=gotham&hide_border=true" />
+  <img style="float='left'; margin='1%'" src="https://github-readme-stats.vercel.app/api?username=mendanhapuh&show_icons=true&theme=gotham&hide_border=true" />
+  <img style="float='right'; margin='1%'" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendanhapuh&layout=compact&theme=gotham&hide_border=true" />
 </div>
 <br>
 <div align="center">
