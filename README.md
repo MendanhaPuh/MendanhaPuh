@@ -1,6 +1,12 @@
 ## Olá 👋
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=mendanhapuh&show_icons=true&theme=gotham)
+
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <img align="center" src="https://profile-counter.glitch.me/{Henriquefuga}/count.svg" style="margin:0 auto" />
+</div>
+
 <!--
 **MendanhaPuh/MendanhaPuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
